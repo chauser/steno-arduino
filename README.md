@@ -41,4 +41,4 @@ To sample the keys, the processor locks/disables the latches on all the shift re
 
 ## Improvements
 
-- Add debounce logic. I haven't really noticed needing this, but it might be necessary when you start to type faster.
+- <s>Add debounce logic. I haven't really noticed needing this, but it might be necessary when you start to type faster.</s> Done. See PR #1.
