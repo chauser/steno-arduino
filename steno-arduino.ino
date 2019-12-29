@@ -45,7 +45,7 @@
 #define ARRAY_SIZE(array) \
     (sizeof(array) / sizeof(*array))
 
-#define DEBOUNCE_PERIOD 10
+#define DEBOUNCE_PERIOD 50
 
 /*
  * Setup IO and serial connections
